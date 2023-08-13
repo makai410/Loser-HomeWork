@@ -22,8 +22,7 @@
 
 </div>
 
-<details>
-<summary>
+<details> <summary>目录</summary>
 
 <style>
     summary {
@@ -51,10 +50,6 @@
     }
 }
 </style>
-
-<wtf>目录</wtf>
-
-</summary>
 
 <br>
 
