@@ -22,11 +22,7 @@
 
 </div>
 
-<details>
-
-<summary>
-<font size=6>目录</font>
-</summary>
+<details> <summary><b><font size=5 color=aqua face="目录">目录</font></b></summary>
 
 <br>
 
