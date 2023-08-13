@@ -22,34 +22,11 @@
 
 </div>
 
-<details> <summary>目录</summary>
+<details>
 
-<style>
-    summary {
-        font-size: 30px;
-        font-weight: 500;
-        animation: sc 5s infinite;
-        display:inline;
-    }
-
-    @keyframes  sc {
-    0% {
-        color: red;
-    }
-    25% {
-        color: green;
-    }
-    50% {
-        color: aqua;
-    }
-    75% {
-        color: red;
-    }
-    100% {
-        color: yellow;
-    }
-}
-</style>
+<summary>
+<font size=6>目录</font>
+</summary>
 
 <br>
 
